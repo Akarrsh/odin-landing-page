@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.dark {
+    background-color: #1F2937;
+}
+
+.big {
+    display: flex;
+    flex-direction: column;
+}
+
+.grey {
+    background-color: #E5E7EB;
+}
+
+.dark .one{
+    color: #F9FAF8;
+}
+
+.dark .two{
+    color: #E5E7EB;
+}
